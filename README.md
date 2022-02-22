@@ -1,6 +1,5 @@
 ## <b>Hey!</b>
 ## My name is Javier Borbon ✌️😎
-<hr>
 
 ### <strong>About me</strong> 
 
@@ -29,7 +28,7 @@ I like developing and coding, and I have been learning it always with the goal o
 
 - [SIMULACIÓN BRAZO ROBÓTICO](#simulación-brazo-robótico)
 - [FORK BOMB](#fork-bomb)
-- [VISOR DE IMÁGENES](#visor-de-imágenes)
+- [SLIDESHOW](#slideshow)
 - [JUEGO DE DADOS](#juego-de-dados)
 - [PRESUPUESTO DE CAMPING](#presupuesto-de-camping)
 - [RITUALS](#rituals)
@@ -51,8 +50,17 @@ I like developing and coding, and I have been learning it always with the goal o
 
 #### **SIMULACIÓN BRAZO ROBÓTICO**
 #### **FORK BOMB**
-#### **VISOR DE IMÁGENES**
+#### **SLIDESHOW**
+<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+<h3>This project displays a list of images.</h3>
+<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</a>
+
 #### **JUEGO DE DADOS**
+<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+<h3>This project displays a list of images.</h3>
+<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+
 #### **PRESUPUESTO DE CAMPING**
 #### **RITUALS**
 #### **MEDAYORK**
