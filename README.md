@@ -60,8 +60,8 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **PRESUPUESTO DE CAMPING**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+#### **CAMP COST CALCULATOR**
+<img src="images/CostCalculator.png" title="CostCalculator" alt="Camp cost calculator">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
@@ -70,17 +70,17 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **JUEGO DE DADOS**
+#### **DICE GAME**
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **GESTOR DE BLOGS**
+#### **BLOGS - CMS**
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **SUMA DE ENTEROS LARGOS**
+#### **ADDING TWO LARGE INTEGERS **
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
@@ -91,12 +91,12 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 
-#### **TRES EN LÍNEA**
+#### **TIC TAC TOE**
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **CALCULADORA DE FUNCIONES CUADRÁTICAS**
+#### **SQUARE FUNCTIONS CALCULATOR**
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
@@ -111,7 +111,7 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **CALCULADORA**
+#### **CALCULATOR**
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
