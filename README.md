@@ -5,11 +5,13 @@
 
 I am a Multiplatform Application Development student at Nebrija University.
 I like to develop and code. Always learning with the aim of creating a solution to improve people's quality of life. I have taken some courses on development and I have learned some languages, like
+
 * HTML
 * CSS
 * JAVASCRIPT
 * JAVA 
 * PYTHON
+* C / C++
 
 
 ### **Contact**
@@ -20,6 +22,13 @@ I like to develop and code. Always learning with the aim of creating a solution 
 [linkedin]:https://www.linkedin.com/in/jsborbon/
 [github]:https://github.com/jsborbon
 
+### **Stats**
+
+[![Javier's github stats](https://github-readme-stats.vercel.app/api?username=jsborbon&show_icons=true&&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsborbon&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### <strong>My proyects</strong>
 
@@ -28,17 +37,14 @@ I like to develop and code. Always learning with the aim of creating a solution 
 - [RITUALS](#rituals)
 - [MEDAYORK](#medayork)
 - [CAMP COST CALCULATOR](#camp-cost-calculator)
-- [SIMULACIÓN BRAZO ROBÓTICO](#simulación-brazo-robótico)
-- [DICE GAME](#dice-game)
+- [ROBOTIC ARM](#robotic-arm)
 - [BLOGS - CMS](#blogs---CMS)
 - [ADDING TWO LARGE INTEGERS](#adding-two-large-integers)
-- [CONVERSIÓN DE BASES](#conversión-de-bases)
 - [TIC TAC TOE](#tic-tac-toe)
 - [SQUARE FUNCTIONS CALCULATOR](#square-functions-calculator)
 - [AGENDA](#agenda)
 - [CALCULADORA DE DISTINTAS BASES](#calculadora-de-distintas-bases)
 - [CALCULATOR](#calculator)
-- [FORK BOMB](#fork-bomb)
 
 
 
@@ -56,7 +62,7 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 #### **MEDAYORK**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+<img src="images/Medayork.png" title="Medayork" alt="Medayork">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
@@ -65,13 +71,8 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **SIMULACIÓN BRAZO ROBÓTICO**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
-
-#### **DICE GAME**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+#### **ROBOTIC ARM**
+<img src="images/Robotic Arm.png" title="Robotic Arm" alt="Robotic Arm">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
@@ -85,14 +86,8 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **CONVERSIÓN DE BASES**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
-
-
 #### **TIC TAC TOE**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+<img src="images/Tic tac toe.png" title="Tic tac toe" alt="Tic tac toe">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
@@ -117,10 +112,4 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 
-#### **FORK BOMB**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
-
-
-[Regresar al inicio](#)
+[Ir arriba](#)
