@@ -27,17 +27,17 @@ I like to develop and code. Always learning with the aim of creating a solution 
 - [SLIDESHOW](#slideshow)
 - [RITUALS](#rituals)
 - [MEDAYORK](#medayork)
-- [PRESUPUESTO DE CAMPING](#presupuesto-de-camping)
+- [CAMP COST CALCULATOR](#camp-cost-calculator)
 - [SIMULACIÓN BRAZO ROBÓTICO](#simulación-brazo-robótico)
-- [JUEGO DE DADOS](#juego-de-dados)
-- [GESTOR DE BLOGS](#gestor-de-blogs)
-- [SUMA DE ENTEROS LARGOS](#suma-de-enteros-largos)
+- [DICE GAME](#dice-game)
+- [BLOGS - CMS](#blogs---CMS)
+- [ADDING TWO LARGE INTEGERS](#adding-two-large-integers)
 - [CONVERSIÓN DE BASES](#conversión-de-bases)
-- [TRES EN LÍNEA](#tres-en-línea)
-- [CALCULADORA DE FUNCIONES CUADRÁTICAS](#calculadora-de-funciones-cuadráticas)
+- [TIC TAC TOE](#tic-tac-toe)
+- [SQUARE FUNCTIONS CALCULATOR](#square-functions-calculator)
 - [AGENDA](#agenda)
 - [CALCULADORA DE DISTINTAS BASES](#calculadora-de-distintas-bases)
-- [CALCULADORA](#calculadora)
+- [CALCULATOR](#calculator)
 - [FORK BOMB](#fork-bomb)
 
 
@@ -80,7 +80,7 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **ADDING TWO LARGE INTEGERS **
+#### **ADDING TWO LARGE INTEGERS**
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
