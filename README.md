@@ -4,7 +4,7 @@
 ### <strong>About me</strong> 
 
 I am a Multiplatform Application Development student at Nebrija University.
-I like to develop and code. Always learning with the aim of creating a solution to improve people's quality of life. I have taken some courses on development and I have learned some languages, like
+I like to develop and code. Always learning with the aim of creating a solution to improve people's quality of life. I have taken some courses on development and I have learned some languages, like:
 
 * HTML
 * CSS
@@ -26,7 +26,7 @@ I like to develop and code. Always learning with the aim of creating a solution 
 
 [![Javier's github stats](https://github-readme-stats.vercel.app/api?username=jsborbon&show_icons=true&&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsborbon&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsborbon&langs_count=8&hide=Hack,Shell&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -37,13 +37,11 @@ I like to develop and code. Always learning with the aim of creating a solution 
 - [RITUALS](#rituals)
 - [MEDAYORK](#medayork)
 - [CAMP COST CALCULATOR](#camp-cost-calculator)
-- [ROBOTIC ARM](#robotic-arm)
 - [BLOGS - CMS](#blogs---CMS)
-- [ADDING TWO LARGE INTEGERS](#adding-two-large-integers)
 - [TIC TAC TOE](#tic-tac-toe)
-- [SQUARE FUNCTIONS CALCULATOR](#square-functions-calculator)
-- [AGENDA](#agenda)
-- [CALCULADORA DE DISTINTAS BASES](#calculadora-de-distintas-bases)
+- [TETRIS](#tetris)
+- [ROBOTIC ARM](#robotic-arm)
+- [CALCULATOR WITH NUMBER BASE CONVERSION](#calculator-with-number-base-conversion)
 - [CALCULATOR](#calculator)
 
 
@@ -61,55 +59,63 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
+
+Visit the project <a href="https://github.com/jsborbon/Rituals">here...</a>
+
 #### **MEDAYORK**
 <img src="images/Medayork.png" title="Medayork" alt="Medayork">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+
+Visit the project <a href="https://github.com/MedaYork/MedaYork">here...</a>
 
 #### **CAMP COST CALCULATOR**
 <img src="images/CostCalculator.png" title="CostCalculator" alt="Camp cost calculator">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **ROBOTIC ARM**
-<img src="images/Robotic Arm.png" title="Robotic Arm" alt="Robotic Arm">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
-
 #### **BLOGS - CMS**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+<img src="images/Blog.png" title="Blog" alt="Blog">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **ADDING TWO LARGE INTEGERS**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+Visit the project <a href="https://github.com/VelasquezDaniel/Grupo-A---Gestion-blogs-">here...</a>
 
 #### **TIC TAC TOE**
 <img src="images/Tic tac toe.png" title="Tic tac toe" alt="Tic tac toe">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **SQUARE FUNCTIONS CALCULATOR**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+Visit the project <a href="https://github.com/jsborbon/Triqui">here...</a>
+
+#### **TETRIS**
+<img src="images/Tetris.png" title="Tetris" alt="Tetris">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **AGENDA**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+Visit the project <a href="https://github.com/jsborbon/Tetris">here...</a>
+
+#### **ROBOTIC ARM**
+<img src="images/Robotic Arm.png" title="Robotic Arm" alt="Robotic Arm">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
-#### **CALCULADORA DE DISTINTAS BASES**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+Visit the project <a href="https://github.com/jsborbon/Simulacion-Brazo-Robotico">here...</a>
+
+#### **CALCULATOR WITH NUMBER BASE CONVERSION**
+<img src="images/CalculatorNumberBase.png" title="Calculator Number Base" alt="Calculator Number Base">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+
+Visit the project <a href="https://github.com/jsborbon/Calculadora-diferentes-bases">here...</a>
+
 
 #### **CALCULATOR**
-<img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
+<img src="images/Calculator.png" title="Calculator" alt="Calculator">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+
+Visit the project <a href="https://github.com/jsborbon/Calculadora">here...</a>
 
 
 [Ir arriba](#)
