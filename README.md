@@ -53,6 +53,7 @@ I like to develop and code. Always learning with the aim of creating a solution 
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</a>
+<hr><br>
 
 #### **RITUALS**
 <img src="images/Rituals.png" title="Rituals" alt="Rituals Website Copy">
@@ -61,6 +62,7 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 
 
 Visit the project <a href="https://github.com/jsborbon/Rituals">here...</a>
+<hr><br>
 
 #### **MEDAYORK**
 <img src="images/Medayork.png" title="Medayork" alt="Medayork">
@@ -68,11 +70,14 @@ Visit the project <a href="https://github.com/jsborbon/Rituals">here...</a>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 Visit the project <a href="https://github.com/MedaYork/MedaYork">here...</a>
+<hr><br>
 
 #### **CAMP COST CALCULATOR**
 <img src="images/CostCalculator.png" title="CostCalculator" alt="Camp cost calculator">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+Visit the project <a href="https://github.com/jsborbon/Camping-Presupuesto">here...</a>
+<hr><br>
 
 #### **BLOGS - CMS**
 <img src="images/Blog.png" title="Blog" alt="Blog">
@@ -80,6 +85,7 @@ Visit the project <a href="https://github.com/MedaYork/MedaYork">here...</a>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 Visit the project <a href="https://github.com/VelasquezDaniel/Grupo-A---Gestion-blogs-">here...</a>
+<hr><br>
 
 #### **TIC TAC TOE**
 <img src="images/Tic tac toe.png" title="Tic tac toe" alt="Tic tac toe">
@@ -87,6 +93,7 @@ Visit the project <a href="https://github.com/VelasquezDaniel/Grupo-A---Gestion-
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 Visit the project <a href="https://github.com/jsborbon/Triqui">here...</a>
+<hr><br>
 
 #### **TETRIS**
 <img src="images/Tetris.png" title="Tetris" alt="Tetris">
@@ -94,6 +101,7 @@ Visit the project <a href="https://github.com/jsborbon/Triqui">here...</a>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 Visit the project <a href="https://github.com/jsborbon/Tetris">here...</a>
+<hr><br>
 
 #### **ROBOTIC ARM**
 <img src="images/Robotic Arm.png" title="Robotic Arm" alt="Robotic Arm">
@@ -101,6 +109,7 @@ Visit the project <a href="https://github.com/jsborbon/Tetris">here...</a>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 Visit the project <a href="https://github.com/jsborbon/Simulacion-Brazo-Robotico">here...</a>
+<hr><br>
 
 #### **CALCULATOR WITH NUMBER BASE CONVERSION**
 <img src="images/CalculatorNumberBase.png" title="Calculator Number Base" alt="Calculator Number Base">
@@ -108,7 +117,7 @@ Visit the project <a href="https://github.com/jsborbon/Simulacion-Brazo-Robotico
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 Visit the project <a href="https://github.com/jsborbon/Calculadora-diferentes-bases">here...</a>
-
+<hr><br>
 
 #### **CALCULATOR**
 <img src="images/Calculator.png" title="Calculator" alt="Calculator">
@@ -116,6 +125,6 @@ Visit the project <a href="https://github.com/jsborbon/Calculadora-diferentes-ba
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
 
 Visit the project <a href="https://github.com/jsborbon/Calculadora">here...</a>
-
+<hr><br>
 
 [Ir arriba](#)
