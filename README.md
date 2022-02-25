@@ -83,7 +83,8 @@ Visit the project <a href="https://github.com/jsborbon/Camping-Presupuesto">here
 <hr><br>
 
 #### **BLOGS - CMS**
-<img src="images/Blog.png" title="Blog" alt="Blog">Group Blogs is a content management system designed for development blogs. It was done using Python for the server, encryption, email management, DAO...</h3>
+<img src="images/Blog.png" title="Blog" alt="Blog">
+<h3>Group Blogs is a content management system designed for development blogs. It was done using Python for the server, encryption, email management, DAO...</h3>
 
 Visit the project <a href="https://github.com/VelasquezDaniel/Grupo-A---Gestion-blogs-">here...</a>
 <hr><br>
