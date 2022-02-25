@@ -57,25 +57,24 @@ Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</
 
 #### **RITUALS**
 <img src="images/Rituals.png" title="Rituals" alt="Rituals Website Copy">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
-
+<h3>
+This project is a website based on <a href="https://www.rituals.com/">Rituals</a>. It was made using HTML and CSS. 
+</h3>
 
 Visit the project <a href="https://github.com/jsborbon/Rituals">here...</a>
 <hr><br>
 
 #### **MEDAYORK**
 <img src="images/Medayork.png" title="Medayork" alt="Medayork">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+<h3>This is a tourist app for Android where you can find travel information about Medellin, Colombia.</h3>
 
 Visit the project <a href="https://github.com/MedaYork/MedaYork">here...</a>
 <hr><br>
 
 #### **CAMP COST CALCULATOR**
 <img src="images/CostCalculator.png" title="CostCalculator" alt="Camp cost calculator">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+<h3>This project calculates how much you have to pay in a place, depending on the season, the number of days, items, and their quantity.</h3>
+
 Visit the project <a href="https://github.com/jsborbon/Camping-Presupuesto">here...</a>
 <hr><br>
 
