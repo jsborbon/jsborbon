@@ -52,6 +52,7 @@ I like to develop and code. Always learning with the aim of creating a solution 
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
 <h3>This project displays a list of images.</h3>
 <p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+
 Visit the project <a href="https://github.com/jsborbon/Visor-Imagenes">here...</a>
 <hr><br>
 
@@ -79,49 +80,43 @@ Visit the project <a href="https://github.com/jsborbon/Camping-Presupuesto">here
 <hr><br>
 
 #### **BLOGS - CMS**
-<img src="images/Blog.png" title="Blog" alt="Blog">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+<img src="images/Blog.png" title="Blog" alt="Blog">Group Blogs is a content management system designed for development blogs. It was done using Python for the server, encryption, email management, DAO...</h3>
 
 Visit the project <a href="https://github.com/VelasquezDaniel/Grupo-A---Gestion-blogs-">here...</a>
 <hr><br>
 
 #### **TIC TAC TOE**
 <img src="images/Tic tac toe.png" title="Tic tac toe" alt="Tic tac toe">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+<h3>TIC TAC TOE Game in Java</h3>
 
 Visit the project <a href="https://github.com/jsborbon/Triqui">here...</a>
 <hr><br>
 
 #### **TETRIS**
 <img src="images/Tetris.png" title="Tetris" alt="Tetris">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+<h3>Tetris Game in Java</h3> 
+<p>Besides the game, this project contains manuals for the user and developers.</p>
 
 Visit the project <a href="https://github.com/jsborbon/Tetris">here...</a>
 <hr><br>
 
 #### **ROBOTIC ARM**
 <img src="images/Robotic Arm.png" title="Robotic Arm" alt="Robotic Arm">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+<h3>This project shows three sides of a robotic arm.</h3>
+<p>In addition, the user can move each joint, the arm, and the hook. The program displays the coordinates of the axes.</p>
 
 Visit the project <a href="https://github.com/jsborbon/Simulacion-Brazo-Robotico">here...</a>
 <hr><br>
 
 #### **CALCULATOR WITH NUMBER BASE CONVERSION**
 <img src="images/CalculatorNumberBase.png" title="Calculator Number Base" alt="Calculator Number Base">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
-
+<h3>This calculator allows you to perform operations between numbers with different bases</h3>
 Visit the project <a href="https://github.com/jsborbon/Calculadora-diferentes-bases">here...</a>
 <hr><br>
 
 #### **CALCULATOR**
 <img src="images/Calculator.png" title="Calculator" alt="Calculator">
-<h3>This project displays a list of images.</h3>
-<p>Each photo has information about itself that has been extracted from Wikipedia directly through its API.<br>In addition, the program has two buttons to control the image to display and an option to stop automatic display. </p>
+<h3>This is a calculator in java</h3>
 
 Visit the project <a href="https://github.com/jsborbon/Calculadora">here...</a>
 <hr><br>
