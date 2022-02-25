@@ -69,9 +69,9 @@ Visit the project <a href="https://github.com/jsborbon/Rituals">here...</a>
 <img src="images/Medayork.png" title="Medayork" alt="Medayork">
 <h3>This is a tourist app for Android where you can find travel information about Medellin, Colombia.</h3>
 
-<div style="overflow:hidden;">
-<div style="width:45%; float:left;"><img src="images/Medayork2.png" title="Medayork" alt="Medayork" width=100%>
-</div><div style="width:46%; float:left; margin-left:5px"><img src="images/Medayork3.png" title="Medayork" alt="Medayork" width=100%></div><div style="width:45%; float:left;"><img src="images/Medayork4.png" title="Medayork" alt="Medayork" width=100%></div><div style="width:46%; float:left; margin-left:5px"><img src="images/Medayork5.png" title="Medayork" alt="Medayork" width=100% height=100%></div></div>
+<img src="images/Medayork2.png" title="Medayork" alt="Medayork" width=27%>
+<img src="images/Medayork3.png" title="Medayork" alt="Medayork" width=27%><img src="images/Medayork4.png" title="Medayork" alt="Medayork" width=27.8%>
+
 Visit the project <a href="https://github.com/MedaYork/MedaYork">here...</a>
 <hr><br>
 
