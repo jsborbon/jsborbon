@@ -24,9 +24,9 @@ I like to develop and code. Always learning with the aim of creating a solution 
 
 ### **Stats**
 
-[![Javier's github stats](https://github-readme-stats.vercel.app/api?username=jsborbon&show_icons=true&&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+![Javier's github stats](https://github-readme-stats.vercel.app/api?username=jsborbon&show_icons=true&&theme=tokyonight&hide=stars&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsborbon&langs_count=8&hide=Hack,Shell&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsborbon&langs_count=8&hide=Hack,Shell&layout=compact&theme=tokyonight&count_private=true)
 
 
 
@@ -37,7 +37,7 @@ I like to develop and code. Always learning with the aim of creating a solution 
 - [RITUALS](#rituals)
 - [MEDAYORK](#medayork)
 - [CAMP COST CALCULATOR](#camp-cost-calculator)
-- [BLOGS - CMS](#blogs---CMS)
+- [BLOGS - CMS](#blogs---cms)
 - [TIC TAC TOE](#tic-tac-toe)
 - [TETRIS](#tetris)
 - [ROBOTIC ARM](#robotic-arm)
