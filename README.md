@@ -3,15 +3,17 @@
 
 ### <strong>About me</strong> 
 
-I am a Multiplatform Application Development student at Nebrija University.
+I am a Software Engineering Student at Grancolombiano Polytechnic University Institution.
 I like to develop and code. Always learning with the aim of creating a solution to improve people's quality of life. I have taken some courses on development and I have learned some languages, like:
 
 * HTML
 * CSS
 * JAVASCRIPT
+* TYPESCRIPT
 * JAVA 
 * PYTHON
 * C / C++
+* POWERSHELL
 
 
 ### **Contact**
