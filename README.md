@@ -28,7 +28,7 @@ I like to develop and code. Always learning with the aim of creating a solution 
 
 ![Javier's github stats](https://github-readme-stats.vercel.app/api?username=jsborbon&show_icons=true&&theme=tokyonight&hide=stars&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsborbon&langs_count=8&hide=Hack,Shell&layout=compact&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsborbon&langs_count=12&hide=Hack,Shell&layout=compact&theme=tokyonight&count_private=true)
 
 
 
