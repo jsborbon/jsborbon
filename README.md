@@ -34,7 +34,7 @@ I like to develop and code. Always learning with the aim of creating a solution 
 
 ### <strong>My proyects</strong>
 
-
+- [FRIKI ZONE](#friki-zone)
 - [SLIDESHOW](#slideshow)
 - [RITUALS](#rituals)
 - [MEDAYORK](#medayork)
@@ -49,6 +49,14 @@ I like to develop and code. Always learning with the aim of creating a solution 
 
 
 ## **Proyects**
+
+#### **FRIKI ZONE**
+<img src="images/FrikiZone.png" title="Frikizone" alt="Frikizone">
+<h3>This project is an e-commerce platform built with Next.js, Prisma, and PostgreSQL for anime, comics, and gaming lovers.</h3>
+<p>The website includes product browsing organized by categories, advanced search with detailed filters, wishlist and shopping cart functionalities, and an administrative panel for managing products.<br>In addition, it features a responsive design with smooth animations provided by Framer Motion.</p>
+
+Visit the project <a href="https://github.com/jsborbon/friki-shop">here...</a>
+<hr><br>
 
 #### **SLIDESHOW**
 <img src="images/Slideshow.png" title="Slideshow" alt="Slideshow">
