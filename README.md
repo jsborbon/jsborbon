@@ -51,7 +51,7 @@ I like to develop and code. Always learning with the aim of creating a solution 
 ## **Proyects**
 
 #### **FRIKI ZONE**
-<img src="images/FrikiZone.png" title="Frikizone" alt="Frikizone">
+<img src="images/FrikiZone.png" title="FrikiZone" alt="FrikiZone">
 <h3>This project is an e-commerce platform built with Next.js, Prisma, and PostgreSQL for anime, comics, and gaming lovers.</h3>
 <p>The website includes product browsing organized by categories, advanced search with detailed filters, wishlist and shopping cart functionalities, and an administrative panel for managing products.<br>In addition, it features a responsive design with smooth animations provided by Framer Motion.</p>
 
