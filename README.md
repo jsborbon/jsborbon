@@ -141,7 +141,7 @@ I’m a **Software Engineer / Systems Engineer in training** with experience in 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsborbon/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsborbon)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagoborbon@outlook.com)  
-[![Torre](https://img.shields.io/badge/Torre-26A69A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABH0lEQVR4Ae2VQQ6DMBAFJxL4Q6GgQ6EgQ6EgQ2EISQyBHoQZg8yxKuFy17PyFbY9V8mX0+vKmVvCQQAogC0nFOp3EUfUd3rhmAq1UwCPDwRNGawC9wwkRUsdtGO1IOoAHNFU1VYAG1A4zO3QgsQAm4F6KzEKfIpVzCXEg4E7EAkwSuQBPBbkBZwYgqZVygp7EeTkxK0VzrbRL6UoDkA2vO3k5zkQ+xkKk26vNH+tgCD7w58pJdEyzM3sBIq2coRJ6BjVV1C0vYAJzkMwKCDPpOAIIFP9GIwB++JcCMVjqtOjN5AAAAAElFTkSuQmCC&logoColor=white)](https://torre.ai/jsborbon)  
+[![Torre](https://img.shields.io/badge/Torre-26A69A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABH0lEQVR4Ae2VQQ6DMBAFJxL4Q6GgQ6EgQ6EgQ2EISQyBHoQZg8yxKuFy17PyFbY9V8mX0+vKmVvCQQAogC0nFOp3EUfUd3rhmAq1UwCPDwRNGawC9wwkRUsdtGO1IOoAHNFU1VYAG1A4zO3QgsQAm4F6KzEKfIpVzCXEg4E7EAkwSuQBPBbkBZwYgqZVygp7EeTkxK0VzrbRL6UoDkA2vO3k5zkQ+xkKk26vNH+tgCD7w58pJdEyzM3sBIq2coRJ6BjVV1C0vYAJzkMwKCDPpOAIIFP9GIwB++JcCMVjqtOjN5AAAAAElFTkSuQmCC&logoColor=white)](https://torre.ai/s/aMaGuMVpMw)  
 
 
 
