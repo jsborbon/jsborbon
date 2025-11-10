@@ -54,11 +54,20 @@ I’m a **Software Engineer / Systems Engineer in training** with experience in 
 
 ## 🚀 Featured Projects
 
+### **REPARALO – Fix it at Home**
+<img src="images/Reparalo.png" title="Reparalo" alt="Reparalo - Fix it at Home" width="27%">
+<h4>Mobile app to solve household issues with guided tutorials, material lists, budgets, and technician booking.</h4>
+<p>Category-based search, step‑by‑step flows with video, nearby stores/technicians on Maps, and SMS/WhatsApp notifications. Built with Kotlin + Jetpack Compose and Firebase (Auth/Firestore).</p>
+🔗 <a href="https://github.com/jsborbon/Reparalo">Repository</a>
+
+<hr>
+
 ### **FRIKI ZONE**
 <img src="images/FrikiZone.png" title="FrikiZone" alt="FrikiZone">
 <h4>E-commerce built with Next.js, Prisma, and PostgreSQL for anime/comics/gaming.</h4>
 <p>Categories, advanced search/filters, wishlist, cart, and an admin panel. Responsive UI with Framer Motion animations.</p>
 🔗 <a href="https://github.com/jsborbon/friki-shop">Repository</a>
+🔗 <a href="https://frikizone.jsborbon.dev">Demo</a>
 <hr>
 
 ### **MEDAYORK**
@@ -142,6 +151,7 @@ I’m a **Software Engineer / Systems Engineer in training** with experience in 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsborbon)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagoborbon@outlook.com)  
 [![Torre](https://img.shields.io/badge/Torre-26A69A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABH0lEQVR4Ae2VQQ6DMBAFJxL4Q6GgQ6EgQ6EgQ2EISQyBHoQZg8yxKuFy17PyFbY9V8mX0+vKmVvCQQAogC0nFOp3EUfUd3rhmAq1UwCPDwRNGawC9wwkRUsdtGO1IOoAHNFU1VYAG1A4zO3QgsQAm4F6KzEKfIpVzCXEg4E7EAkwSuQBPBbkBZwYgqZVygp7EeTkxK0VzrbRL6UoDkA2vO3k5zkQ+xkKk26vNH+tgCD7w58pJdEyzM3sBIq2coRJ6BjVV1C0vYAJzkMwKCDPpOAIIFP9GIwB++JcCMVjqtOjN5AAAAAElFTkSuQmCC&logoColor=white)](https://torre.ai/s/aMaGuMVpMw)  
+[![Portfolio](https://img.shields.io/badge/jsborbon.dev-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://jsborbon.dev)  
 
 
 
