@@ -55,7 +55,7 @@ I’m a **Software Engineer / Systems Engineer in training** with experience in 
 ## 🚀 Featured Projects
 
 ### **REPARALO – Fix it at Home**
-<img src="images/Reparalo.png" title="Reparalo" alt="Reparalo - Fix it at Home" width="27%">
+<img src="images/Reparalo.jpg" title="Reparalo" alt="Reparalo - Fix it at Home" width="27%">
 <h4>Mobile app to solve household issues with guided tutorials, material lists, budgets, and technician booking.</h4>
 <p>Category-based search, step‑by‑step flows with video, nearby stores/technicians on Maps, and SMS/WhatsApp notifications. Built with Kotlin + Jetpack Compose and Firebase (Auth/Firestore).</p>
 🔗 <a href="https://github.com/jsborbon/Reparalo">Repository</a>
